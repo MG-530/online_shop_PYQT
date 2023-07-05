@@ -11,9 +11,15 @@ If you don't want to use the current products and sellers  and To create your  o
 
 # what we have
 loginAndSignUp --> user can login or singup in it and after it the user redirect to mainshop
+
 mainshop       --> all active product show in table and each Product have Dynamics SingleProduct page
+
 sellerPanel    --> it can add inventory to all active product in shop or Request Product
+
 OperatorPanel  --> can do three thing 
+
                    sellerPanel      --> show all info for seller and delete or activate seler
-				   CustomerListPage --> show all info for Customer and delete Customer
-	               ProductListPage  --> show all info for seller and activate Product that seller Request
+		   
+		   CustomerListPage --> show all info for Customer and delete Customer
+       
+	           ProductListPage  --> show all info for seller and activate Product that seller Request
