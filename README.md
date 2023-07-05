@@ -18,8 +18,8 @@ sellerPanel    --> it can add inventory to all active product in shop or Request
 
 OperatorPanel  --> can do three thing 
 
-                   sellerPanel      --> show all info for seller and delete or activate seler
+1. sellerPanel      --> show all info for seller and delete or activate seler
 		   
-		   CustomerListPage --> show all info for Customer and delete Customer
-       
-	           ProductListPage  --> show all info for seller and activate Product that seller Request
+2. CustomerListPage --> show all info for Customer and delete Customer
+
+3. ProductListPage  --> show all info for seller and activate Product that seller Request
