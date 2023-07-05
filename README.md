@@ -16,6 +16,8 @@ mainshop       --> all active product show in table and each Product have Dynami
 
 sellerPanel    --> it can add inventory to all active product in shop or Request Product
 
+customerPanel  --> Display the Buy history and the Shipping card and favorites. The whole panel is available next to the logo.
+
 OperatorPanel  --> can do three thing 
 
 1. sellerPanel      --> show all info for seller and delete or activate seler
@@ -23,3 +25,11 @@ OperatorPanel  --> can do three thing
 2. CustomerListPage --> show all info for Customer and delete Customer
 
 3. ProductListPage  --> show all info for seller and activate Product that seller Request
+
+
+# how to enjoy 
+ just run " python loginAndSignUp.py"  and sing up new user 
+and see all Product
+to run Operator Panel " python OperatorPanel.py"
+to run seller Panel "python sellerPanel.py"
+
