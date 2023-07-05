@@ -20,7 +20,7 @@ customerPanel  --> Display the Buy history and the Shipping card and favorites. 
 
 OperatorPanel  --> can do three thing 
 
-1. sellerPanel      --> show all info for seller and delete or activate seler
+1. sellerListPage   --> show all info for seller and delete or activate seler
 		   
 2. CustomerListPage --> show all info for Customer and delete Customer
 
