@@ -2,7 +2,7 @@
 management system for online shop by PYQT
 
 # Requirements
-Python 3.8 (or above)
+Python 3.7 (or above)
 
 PyQt5 5.15.9
 
@@ -28,8 +28,9 @@ OperatorPanel  --> can do three thing
 
 
 # how to enjoy 
- just run " python loginAndSignUp.py"  and sing up new user 
-and see all Product
+ just run " python loginAndSignUp.py"  and sing up new user and see all Product
+
 to run Operator Panel " python OperatorPanel.py"
+
 to run seller Panel "python sellerPanel.py"
 
