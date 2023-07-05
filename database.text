@@ -1,0 +1,72 @@
+----------------------------
+This file only displays :
+the content of the database 
+and its tables and content
+----------------------------
+
+database :
+
+    table1 --> customer
+        CUid (customer id) : cu + 
+        firstname : char
+        lastName : char
+        phoneNumber : int
+        address : varchar
+        Wallet : int
+        favorite : list of object
+        shoppingCart : list of product
+        distance : int
+        password : char
+
+    table2 --> seller
+        SLid (seller id) : SL + int
+        firstName : char
+        lastName : char
+        phoneNumber : int
+        address : varchar
+        Wallet : int
+        distance : int
+        interestRates : int
+        activeStatus : bool
+        score : int 
+        countScore : int
+        password : char
+
+
+    table3 --> product
+        PRid (product id) : PR + int
+        title : char
+        price : int
+        description: varchar
+        activeStatus : bool
+    
+    table4 --> inventory
+        PRid : id
+        count : int
+        sellerName : char
+
+    table5 --> buyHistory
+        CUid : char
+        count : int
+        sumPrice : int
+        date : dateTime
+        listOfProduces : list
+        arriveTime : int
+
+    table6 --> selleHistory
+        PRid : id
+        SLid : char
+        CUid : char
+        price : int
+        time: date
+    
+    table7 --> discount
+        discountName : char
+        rates : int
+        expirationDate : date
+
+    table8 --> postComment
+        PRid : char
+        another : char
+        stars : int
+        description : varchar
